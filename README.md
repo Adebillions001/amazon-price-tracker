@@ -3,7 +3,7 @@
 A Python script that checks the price of one Amazon product and emails me when it drops below my budget of ₦150,000.
 
 ![Demo](docs/demo.gif)
-<!-- TODO: save the GIF as docs/demo.gif -->
+
 
 ## Features
 
